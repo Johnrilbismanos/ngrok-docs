@@ -1,12 +1,12 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "ec_2NTVGZPJYevUXrQf3NWongxLIVQ",
+  "id": "ec_2TDPvsfmvg5nyeLRXEdfWaIokxc",
   "type": "https",
   "description": "app servers",
-  "created_at": "2023-03-24T19:59:23Z",
-  "uri": "https://api.ngrok.com/endpoint_configurations/ec_2NTVGZPJYevUXrQf3NWongxLIVQ",
+  "created_at": "2023-07-28T20:08:31Z",
+  "uri": "https://api.ngrok.com/endpoint_configurations/ec_2TDPvsfmvg5nyeLRXEdfWaIokxc",
   "basic_auth": null,
   "circuit_breaker": null,
   "compression": null,
@@ -24,8 +24,8 @@
     "enabled": true,
     "ip_policies": [
       {
-        "id": "ipp_2NTVGVyp0WSYFBew6YI3RTQGdAl",
-        "uri": "https://api.ngrok.com/ip_policies/ipp_2NTVGVyp0WSYFBew6YI3RTQGdAl"
+        "id": "ipp_2TDPvpEwv23lXJwSgtVw16GMQBf",
+        "uri": "https://api.ngrok.com/ip_policies/ipp_2TDPvpEwv23lXJwSgtVw16GMQBf"
       }
     ]
   },

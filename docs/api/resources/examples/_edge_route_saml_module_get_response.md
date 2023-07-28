@@ -1,4 +1,4 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
@@ -12,10 +12,10 @@
   "force_authn": false,
   "allow_idp_initiated": true,
   "authorized_groups": [],
-  "entity_id": "https://idp.local-ngrok.com/saml/edghtsrt_2NTVHnq2d1a25MALU8Pqjqd6QvP",
-  "assertion_consumer_service_url": "https://idp.local-ngrok.com/saml/edghtsrt_2NTVHnq2d1a25MALU8Pqjqd6QvP/acs",
-  "single_logout_url": "https://idp.local-ngrok.com/saml/edghtsrt_2NTVHnq2d1a25MALU8Pqjqd6QvP/slo",
-  "request_signing_certificate_pem": "-----BEGIN CERTIFICATE-----\nMIIEAzCCAuugAwIBAgIQPF3t8GUHZg4HRKy+6ZRReTANBgkqhkiG9w0BAQsFADCB\noDFOMEwGA1UECgxFaHR0cHM6Ly9pZHAubG9jYWwtbmdyb2suY29tL3NhbWwvZWRn\naHRzcnRfMk5UVkhucTJkMWEyNU1BTFU4UHFqcWQ2UXZQMU4wTAYDVQQDDEVodHRw\nczovL2lkcC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lZGdodHNydF8yTlRWSG5xMmQx\nYTI1TUFMVThQcWpxZDZRdlAwIBcNMjMwMzI0MTk1OTMzWhgPMjA1ODAzMTUxOTU5\nMzNaMIGgMU4wTAYDVQQKDEVodHRwczovL2lkcC5sb2NhbC1uZ3Jvay5jb20vc2Ft\nbC9lZGdodHNydF8yTlRWSG5xMmQxYTI1TUFMVThQcWpxZDZRdlAxTjBMBgNVBAMM\nRWh0dHBzOi8vaWRwLmxvY2FsLW5ncm9rLmNvbS9zYW1sL2VkZ2h0c3J0XzJOVFZI\nbnEyZDFhMjVNQUxVOFBxanFkNlF2UDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC\nAQoCggEBANGSTeTpUVH0QYrWs7CCRgypk7Ed7qHe7P8qPhUYaf1TyOV5nVR3Kt+8\n99m/9j5hjqHv4Qzv7NoJGQhRU2f6a3U0ec2ANI+CRbfPryEcfJKMNgQfZ96pzZ1j\n+0+UzkxBORpqbc7jxwSJUmpdZlAoc6P5H0M/S/XLdOZMhQiXJ0DEmlLcMX4+bLIl\nvdYvhTjZU5ru9wRWV4awchM7GJz6+I2u/ZtUhHT37C2oAarxl8S09GTlVoa/gHl2\nVYp5vmDZEM9ylyS+mc6248VxpIEhaFkGPnd/QU1Si0/ruIlt59NMbgOa4o7NQvXA\n1+ojWQVNY7zzXsVYwR/rF4Pt5DrcbOkCAwEAAaM1MDMwDgYDVR0PAQH/BAQDAgeA\nMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQEL\nBQADggEBANGRgIpe7VUABzZj2NzV+iNPdbJ8DSgTX8YIPwTvV19M+OiUD4u/e38l\nvcnBy1IzfemTWtUNNcVnNC7sb4DozyIDPJKboC5H+6oUuxbgz9UrJfLDQcJsmThA\nI9WGEJo5MGMguexSid/dDoRFgZISNCD5XoFOQOQkCj7h4gtBXKN8LnZJVAdanj7K\nsRlTwUnp0Wvv6H+SEHcEVYnRhOmI+5H+CVsgOKwFLP/Nm2lqYqX7PZP92aIQVq54\n/tXK7RY9bmuI7Qj/E7OSQes30DHUbBcC2OK8Ex4Ob7wU5ZIokZK0gyVlKWEhwb7l\n8nTYO2TvNeK+baub9riXCO9DgqQAeGA=\n-----END CERTIFICATE-----\n",
-  "metadata_url": "https://idp.local-ngrok.com/saml/edghtsrt_2NTVHnq2d1a25MALU8Pqjqd6QvP",
+  "entity_id": "https://idp.local-ngrok.com/saml/edghtsrt_2TDPxGMcXa1GdxG7vYl8m2MtJk0",
+  "assertion_consumer_service_url": "https://idp.local-ngrok.com/saml/edghtsrt_2TDPxGMcXa1GdxG7vYl8m2MtJk0/acs",
+  "single_logout_url": "https://idp.local-ngrok.com/saml/edghtsrt_2TDPxGMcXa1GdxG7vYl8m2MtJk0/slo",
+  "request_signing_certificate_pem": "-----BEGIN CERTIFICATE-----\nMIIEBDCCAuygAwIBAgIRAPnl6b5Gtklj83rsreDksIkwDQYJKoZIhvcNAQELBQAw\ngaAxTjBMBgNVBAoMRWh0dHBzOi8vaWRwLmxvY2FsLW5ncm9rLmNvbS9zYW1sL2Vk\nZ2h0c3J0XzJURFB4R01jWGExR2R4Rzd2WWw4bTJNdEprMDFOMEwGA1UEAwxFaHR0\ncHM6Ly9pZHAubG9jYWwtbmdyb2suY29tL3NhbWwvZWRnaHRzcnRfMlREUHhHTWNY\nYTFHZHhHN3ZZbDhtMk10SmswMCAXDTIzMDcyODIwMDg0MloYDzIwNTgwNzE5MjAw\nODQyWjCBoDFOMEwGA1UECgxFaHR0cHM6Ly9pZHAubG9jYWwtbmdyb2suY29tL3Nh\nbWwvZWRnaHRzcnRfMlREUHhHTWNYYTFHZHhHN3ZZbDhtMk10SmswMU4wTAYDVQQD\nDEVodHRwczovL2lkcC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lZGdodHNydF8yVERQ\neEdNY1hhMUdkeEc3dllsOG0yTXRKazAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw\nggEKAoIBAQDmyGTxJNK3alOqUZuyE0RsL5383UxJ+DOziC1zOTw/iia96gKzhHK4\nm6KApml/2VXbLraGFYXOOVyiK9GCZsk7avfqNbJGTcP6B2S/9DpS0gaI5SqSG1AK\no8OlpeK3fmzE1xn7+a+W9ho8RCL53P9+mow0zwfN4neNcUmE0oG6X34ysxWIV61a\nSnbbnselew0F6EL8bDvdDnFiFSuk7CBLNKCPkFyAJ60hbCJUBjnd7YyHmpSE1k9O\nrbfLxzNwAX/BRVVST+EDJPE5XHbhJWHz2vZRSwx/uFDo7Ahez1nldysm4VdLRMWu\nylUlYnepGU5CVytZj2WfLjf4Z7xUdjsrAgMBAAGjNTAzMA4GA1UdDwEB/wQEAwIH\ngDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEB\nCwUAA4IBAQDSDqRv97oAJsQORZSVU5QoogzB6A8P1i3OjU26/GGmXu67Z1HHaalK\n0NW8x08Q1Bl2LSZrWQce8swsPuC8wfj1vMt9Y3CJmbeeSgNjwO1DADX37ZLduZBi\nuWEl29oVmqIzUiwESbbtQrYop34C78qMQm9JEtmjMp5hVTQrPlJSxe0bjwc89/CW\neJR+j57OwQ92ciBDLHBe0E67tuTDLxfk6+KuLk8OVp7Cg7X0peFzzsI8mJl0x2Og\njNeh51mKQaNPfUKDGsNOf1L52f/wLdTrIkGfr2GvmU1Bv+KohuEnxPP6QsHFqSxV\nF7VNnpl1RiqoSagJiQmCaX8xny1nNL82\n-----END CERTIFICATE-----\n",
+  "metadata_url": "https://idp.local-ngrok.com/saml/edghtsrt_2TDPxGMcXa1GdxG7vYl8m2MtJk0",
   "nameid_format": "urn:oasis:names:tc:SAML:2.0:nameid-format:persistent"
 }

@@ -1,12 +1,12 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "edgtls_2NTVHsHoSOClY0mrWICYeydHWFl",
+  "id": "edgtls_2TDPxREtxfP2hzBgVo2SBR6JkFX",
   "description": "acme tls edge",
   "metadata": "{\"environment\": \"production\"}",
-  "created_at": "2023-03-24T19:59:34Z",
-  "uri": "https://api.ngrok.com/edges/tls/edgtls_2NTVHsHoSOClY0mrWICYeydHWFl",
+  "created_at": "2023-07-28T20:08:43Z",
+  "uri": "https://api.ngrok.com/edges/tls/edgtls_2TDPxREtxfP2hzBgVo2SBR6JkFX",
   "hostports": [
     "example.com:443"
   ],

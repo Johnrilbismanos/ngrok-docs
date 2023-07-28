@@ -1,12 +1,12 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "ak_2NTVGUrDCSNyYLVTH2Dyq4OhUaP",
-  "uri": "https://api.ngrok.com/api_keys/ak_2NTVGUrDCSNyYLVTH2Dyq4OhUaP",
+  "id": "ak_2TDPvvhjX0V0IGhLRjaxr7HXxZc",
+  "uri": "https://api.ngrok.com/api_keys/ak_2TDPvvhjX0V0IGhLRjaxr7HXxZc",
   "description": "ad-hoc dev testing",
   "metadata": "{\"environment\":\"dev\"}",
-  "created_at": "2023-03-24T19:59:23Z",
-  "token": "2NTVGUrDCSNyYLVTH2Dyq4OhUaP_4Hru7Tx72SdSDTYrwKy8H",
-  "owner_id": "usr_2NTVGatoJrQx1JKgLBw1aQOXaPY"
+  "created_at": "2023-07-28T20:08:31Z",
+  "token": "2TDPvvhjX0V0IGhLRjaxr7HXxZc_76t3Vjzr4Yvta8Uh66DLd",
+  "owner_id": "usr_2TDPvkvtitw4ZYPIkVwY078SS2B"
 }

@@ -1,4 +1,4 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
@@ -12,10 +12,10 @@
   "force_authn": false,
   "allow_idp_initiated": true,
   "authorized_groups": [],
-  "entity_id": "https://idp.local-ngrok.com/saml/ec_2NTVHQ1xMowcpl8kiarmEcuGQ2y",
-  "assertion_consumer_service_url": "https://idp.local-ngrok.com/saml/ec_2NTVHQ1xMowcpl8kiarmEcuGQ2y/acs",
-  "single_logout_url": "https://idp.local-ngrok.com/saml/ec_2NTVHQ1xMowcpl8kiarmEcuGQ2y/slo",
-  "request_signing_certificate_pem": "-----BEGIN CERTIFICATE-----\nMIID6zCCAtOgAwIBAgIQTYzrmsnK5cDIVB/31eU5XjANBgkqhkiG9w0BAQsFADCB\nlDFIMEYGA1UECgw/aHR0cHM6Ly9pZHAubG9jYWwtbmdyb2suY29tL3NhbWwvZWNf\nMk5UVkhRMXhNb3djcGw4a2lhcm1FY3VHUTJ5MUgwRgYDVQQDDD9odHRwczovL2lk\ncC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lY18yTlRWSFExeE1vd2NwbDhraWFybUVj\ndUdRMnkwIBcNMjMwMzI0MTk1OTMwWhgPMjA1ODAzMTUxOTU5MzBaMIGUMUgwRgYD\nVQQKDD9odHRwczovL2lkcC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lY18yTlRWSFEx\neE1vd2NwbDhraWFybUVjdUdRMnkxSDBGBgNVBAMMP2h0dHBzOi8vaWRwLmxvY2Fs\nLW5ncm9rLmNvbS9zYW1sL2VjXzJOVFZIUTF4TW93Y3BsOGtpYXJtRWN1R1EyeTCC\nASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJnMhDMrurOkR50S++B5Vyfa\n6pG8DK87z4J7kxCl9IqSmRekETHvi+LIYcflMgNr/GRvDoR1lfvwGC/RmLSQC5M8\n2J5DEnv3TDGBUR7a7t+9a3UDNZXhImQh+8lzakj+Y9Ocm1AOXl4Y7zIcLnaQDq+L\n/qeTZQ33L+S0Lo17kE/IOJqjHiTr58bzaHeaLP5pLsCn5MMXRABO5XFuQTu8Wt7Z\nMmhBgIMHvihh8ld1p7kAThpnz4XZoRnh0UI7PYdAQLebIpawND5ynraH9SuWpCA/\nzR9ivY3pdEhPvfU0VIS115SjVrNBZxvlsrScO937sZ6+616D58IiVJY4g1OJvEkC\nAwEAAaM1MDMwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwG\nA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAI9+7eOtHunJbP+uhgGgy0yf\nbuwSOFzrwcthGvRMLdrxBFVpl6p8WV1OdbBBg/RWpvAGZWKjKJ9wGjr6tg0BPeh2\n6vu0l1CXrr47Ze5arC0ohLkAOofnWnHsPTMKTt24pwPSOUUHWAJNF37xyk8uttwg\nNN/l0UbN9JiZUpv+VJgZzDBWj8I2wuhBjU7od4BgqJfSpu8Rlrefmv8lbX8CQybq\nKHlBQSLqealDGxnb6DPBIzja2g5omnXug8ZeNUbVbjg6lepGzdIeNcspvjtjHNP+\n6a+QipsF/9ozB9A5ZHbZy8jjpYWgnjFIj9tf9tNWckfSnQruFFtFfJSdiWPJvvU=\n-----END CERTIFICATE-----\n",
-  "metadata_url": "https://idp.local-ngrok.com/saml/ec_2NTVHQ1xMowcpl8kiarmEcuGQ2y",
+  "entity_id": "https://idp.local-ngrok.com/saml/ec_2TDPwhJV7QqW0Wop8S3fy9LAXJv",
+  "assertion_consumer_service_url": "https://idp.local-ngrok.com/saml/ec_2TDPwhJV7QqW0Wop8S3fy9LAXJv/acs",
+  "single_logout_url": "https://idp.local-ngrok.com/saml/ec_2TDPwhJV7QqW0Wop8S3fy9LAXJv/slo",
+  "request_signing_certificate_pem": "-----BEGIN CERTIFICATE-----\nMIID6zCCAtOgAwIBAgIQa3NXgCX4vN/a7P7Dq2QF0TANBgkqhkiG9w0BAQsFADCB\nlDFIMEYGA1UECgw/aHR0cHM6Ly9pZHAubG9jYWwtbmdyb2suY29tL3NhbWwvZWNf\nMlREUHdoSlY3UXFXMFdvcDhTM2Z5OUxBWEp2MUgwRgYDVQQDDD9odHRwczovL2lk\ncC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lY18yVERQd2hKVjdRcVcwV29wOFMzZnk5\nTEFYSnYwIBcNMjMwNzI4MjAwODM4WhgPMjA1ODA3MTkyMDA4MzhaMIGUMUgwRgYD\nVQQKDD9odHRwczovL2lkcC5sb2NhbC1uZ3Jvay5jb20vc2FtbC9lY18yVERQd2hK\nVjdRcVcwV29wOFMzZnk5TEFYSnYxSDBGBgNVBAMMP2h0dHBzOi8vaWRwLmxvY2Fs\nLW5ncm9rLmNvbS9zYW1sL2VjXzJURFB3aEpWN1FxVzBXb3A4UzNmeTlMQVhKdjCC\nASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMZ+Aq1/T1byzigMRAfvGpnq\nqkw/51zJC7hBBdK6ghI1knlR48mhyPvcCwGbS03XDcFP27VSa2HlPAkT5+kfPCY8\nL1AN0hKwTzFX4nsg6azFwCm5uV4r6SGQsTTLp3kpiV9tAkZYIKx5G/OqF5KKW2VW\ndNoUGcEAvdUHbSt9GExuFN4IWepgYsqahKBT5T8pJ6mHi2LeA7XyKf6x/pqW7LG0\n4eATv5N0CjFHf6Zx/2Rn3oVU57utYfquyng1O+slaBAjG87fgGU9FjQ1cj5vtrIh\nr8PS8OI+fqlf8sObCtBlWXlM1y9JrwCT+KqYFbDzC9ECCnrzkl44Zt7uBLQSh60C\nAwEAAaM1MDMwDgYDVR0PAQH/BAQDAgeAMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwG\nA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBAGFfq0us5AF3E2xdiP27lb0i\n/NAKSEmAsM4rAKJ8Jkh8NXulXZGVtbqn2mPbNC7AFJmN2N8J8KyYwgP7tTdAlPhg\nEyaqEZH49YE1dzQcMro+cduSMLF0axAgEUKBXSUF5tReZ1Laq8yhCRRbod85lDuK\nva/uM34+Sl8RkRVyPrYsmwge2Vd7f6z5IE8TfZSovEEJdCbkE1kmLqUwZ1TK3EiN\nPhBlnhgTNCTanc9Kuw7Emo2vqQr081gtIrnZrZTsXhc9/rut8iXuECCo6ijJEu+p\n9EJQo+o9Sbm9Qzwtwpkk/aA2/1fnXKvy38DMaZNuU6BSRr3QWnqn0aH906er8ZQ=\n-----END CERTIFICATE-----\n",
+  "metadata_url": "https://idp.local-ngrok.com/saml/ec_2TDPwhJV7QqW0Wop8S3fy9LAXJv",
   "nameid_format": "urn:oasis:names:tc:SAML:2.0:nameid-format:persistent"
 }

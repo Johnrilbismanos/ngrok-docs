@@ -1,19 +1,19 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "tn_2NTVGqGpa5w2LExRzILEksu7FOa",
-  "public_url": "https://b8ad9cf4eff6.ngrok.paid",
-  "started_at": "2023-03-24T19:59:25Z",
+  "id": "tn_2TDPw7dySbaI9EV1rCOkmzBXRVZ",
+  "public_url": "https://d556bc4ac2be.ngrok.paid",
+  "started_at": "2023-07-28T20:08:33Z",
   "proto": "https",
   "region": "us",
   "tunnel_session": {
-    "id": "ts_2NTVGmVw5yMzr02ZZzlX4VC6b6L",
-    "uri": "https://api.ngrok.com/tunnel_sessions/ts_2NTVGmVw5yMzr02ZZzlX4VC6b6L"
+    "id": "ts_2TDPw79YR3JGCjkSCcMwEeQcAp2",
+    "uri": "https://api.ngrok.com/tunnel_sessions/ts_2TDPw79YR3JGCjkSCcMwEeQcAp2"
   },
   "endpoint": {
-    "id": "ep_2NTVGqGpa5w2LExRzILEksu7FOa",
-    "uri": "https://api.ngrok.com/endpoints/ep_2NTVGqGpa5w2LExRzILEksu7FOa"
+    "id": "ep_2TDPw7dySbaI9EV1rCOkmzBXRVZ",
+    "uri": "https://api.ngrok.com/endpoints/ep_2TDPw7dySbaI9EV1rCOkmzBXRVZ"
   },
   "forwards_to": "http://localhost:80"
 }

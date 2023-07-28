@@ -1,14 +1,14 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "sucrt_2NTVHYB0CpHWAgMPrRAbEcLIXcB",
-  "uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_2NTVHYB0CpHWAgMPrRAbEcLIXcB",
-  "created_at": "2023-03-24T19:59:31Z",
+  "id": "sucrt_2TDPwk1PyGd3o1QEZelSrVGGBUE",
+  "uri": "https://api.ngrok.com/ssh_user_certificates/sucrt_2TDPwk1PyGd3o1QEZelSrVGGBUE",
+  "created_at": "2023-07-28T20:08:38Z",
   "description": "temporary access to staging machine",
   "public_key": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0= alan@work-laptop",
   "key_type": "ecdsa",
-  "ssh_certificate_authority_id": "sshca_2NTVHYaRRACIxk2qvp6Ux4NzSqM",
+  "ssh_certificate_authority_id": "sshca_2TDPwkqav1M4FAxA1x0oaWOi9xM",
   "principals": [
     "ec2-user",
     "root"
@@ -18,7 +18,7 @@
     "permit-pty": "",
     "permit-user-rc": ""
   },
-  "valid_after": "2023-03-24T19:59:31Z",
-  "valid_until": "2023-06-22T19:59:31Z",
-  "certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgHGnelva6yD7blm5CjvySpUJm6e4Ov6DzO1B2uoYMVPsAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMk5UVkhZQjBDcEhXQWdNUHJSQWJFY0xJWGNCAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGQeASMAAAAAZJSoIwAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIE9nRfY+3vKJZXzUj6wJUutFoBvioVAbBwU6o7Vti69sAAAAUwAAAAtzc2gtZWQyNTUxOQAAAEAg92wsbaWHLKlEJDy+EwWyBn/pM7zHaW6v2XcTBcuH27rDmj1qpLgANQyu6PlKAQPP1bf8opvmyHlZnDHbInMO sucrt_2NTVHYB0CpHWAgMPrRAbEcLIXcB"
+  "valid_after": "2023-07-28T20:08:38Z",
+  "valid_until": "2023-10-26T20:08:38Z",
+  "certificate": "ecdsa-sha2-nistp256-cert-v01@openssh.com AAAAKGVjZHNhLXNoYTItbmlzdHAyNTYtY2VydC12MDFAb3BlbnNzaC5jb20AAAAgZsWFy8gTjg2jGp3fKJjKgkV5Z0YB9rPUedBwLl61AtgAAAAIbmlzdHAyNTYAAABBBK58lFzmWlDimDtBz78wVT4oauA8PjY0CiXTCEIsBNC6UwOJvZ0jdSaYNhDaa7dRV84DfBb/gKzqlXC7cVMZjl0AAAAAAAAAAAAAAAEAAAAhc3VjcnRfMlREUHdrMVB5R2QzbzFRRVplbFNyVkdHQlVFAAAAFAAAAAhlYzItdXNlcgAAAARyb290AAAAAGTEIEYAAAAAZTrHRgAAAAAAAAAoAAAACnBlcm1pdC1wdHkAAAAAAAAADnBlcm1pdC11c2VyLXJjAAAAAAAAAAAAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIAI4qs9SaPKLkhaL5gf867seYAveo9UBinAGlOprwya7AAAAUwAAAAtzc2gtZWQyNTUxOQAAAEAzPf+ktmSfWuFhdPpSA6Nd8FPgR87x1t4hTWGiMG2LXnxY4gQwbIAeYCBaxHQYGYkJZ2Rl4F/CxhAYcX+X+L8N sucrt_2TDPwk1PyGd3o1QEZelSrVGGBUE"
 }

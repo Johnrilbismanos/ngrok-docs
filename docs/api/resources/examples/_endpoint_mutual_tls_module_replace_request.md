@@ -1,4 +1,4 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Request
 ```bash
 curl \
@@ -6,5 +6,5 @@ curl \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
--d '{"enabled":true,"certificate_authority_ids":["ca_2NTVHNFub76GPUMlEMkyuVmzSdy"]}' \
-https://api.ngrok.com/endpoint_configurations/ec_2NTVHQ1xMowcpl8kiarmEcuGQ2y/mutual_tls
+-d '{"enabled":true,"certificate_authority_ids":["ca_2TDPwhLJbADysuYaAiyXtaXHeuK"]}' \
+https://api.ngrok.com/endpoint_configurations/ec_2TDPwhJV7QqW0Wop8S3fy9LAXJv/mutual_tls

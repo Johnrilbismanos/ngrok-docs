@@ -1,14 +1,14 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
   "ssh_certificate_authorities": [
     {
-      "id": "sshca_2NTVHZXs9IV9jHcLslnbwBpy1wA",
-      "uri": "https://api.ngrok.com/ssh_certificate_authorities/sshca_2NTVHZXs9IV9jHcLslnbwBpy1wA",
-      "created_at": "2023-03-24T19:59:31Z",
+      "id": "sshca_2TDPwj9s9EW91js2V8YfsmvMXog",
+      "uri": "https://api.ngrok.com/ssh_certificate_authorities/sshca_2TDPwj9s9EW91js2V8YfsmvMXog",
+      "created_at": "2023-07-28T20:08:38Z",
       "description": "Staging Environment Hosts",
-      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBFS5y699qwahMGDE6EFFj4heF2aQcnGu+FbhzcY/bfN",
+      "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICsE4/9TWik+rVvQ8L0XEU7tRYJqJ2YwLgDhTJlyMsZs",
       "key_type": "ed25519"
     }
   ],

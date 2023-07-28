@@ -1,9 +1,9 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "ipp_2NTVGWp0HTTcR4fjIyxBx4RU2d9",
-  "uri": "https://api.ngrok.com/ip_policies/ipp_2NTVGWp0HTTcR4fjIyxBx4RU2d9",
-  "created_at": "2023-03-24T19:59:23Z",
+  "id": "ipp_2TDPvr5UfdnOMjUb9qYsHOvwPrA",
+  "uri": "https://api.ngrok.com/ip_policies/ipp_2TDPvr5UfdnOMjUb9qYsHOvwPrA",
+  "created_at": "2023-07-28T20:08:31Z",
   "description": "API Outbound Gateway"
 }

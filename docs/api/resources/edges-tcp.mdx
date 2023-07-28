@@ -1,3 +1,5 @@
+<!-- Code generated for API Clients. DO NOT EDIT. -->
+
 
 import EdgesTCPCreateRequest from './examples/_edges_tcp_create_request.md';
 import EdgesTCPCreateResponse from './examples/_edges_tcp_create_response.md';
@@ -81,7 +83,7 @@ Returns a 201 response on success
 | &nbsp; | &nbsp; | &nbsp; |
 |---|---|---|
 | `enabled` | boolean | `true` if the module will be applied to traffic, `false` to disable. default `true` if unspecified |
-| `ip_policies` | [Ref](#ref-fields) |  |
+| `ip_policies` | [Ref](#ref-fields) | list of all IP policies that will be used to check if a source IP is allowed access to the endpoint |
 
 ## Get TCP Edge
 
@@ -129,7 +131,7 @@ Returns a 200 response on success
 | &nbsp; | &nbsp; | &nbsp; |
 |---|---|---|
 | `enabled` | boolean | `true` if the module will be applied to traffic, `false` to disable. default `true` if unspecified |
-| `ip_policies` | [Ref](#ref-fields) |  |
+| `ip_policies` | [Ref](#ref-fields) | list of all IP policies that will be used to check if a source IP is allowed access to the endpoint |
 
 ## List TCP Edges
 
@@ -184,7 +186,7 @@ Returns a 200 response on success
 | &nbsp; | &nbsp; | &nbsp; |
 |---|---|---|
 | `enabled` | boolean | `true` if the module will be applied to traffic, `false` to disable. default `true` if unspecified |
-| `ip_policies` | [Ref](#ref-fields) |  |
+| `ip_policies` | [Ref](#ref-fields) | list of all IP policies that will be used to check if a source IP is allowed access to the endpoint |
 
 ## Update TCP Edge
 
@@ -255,7 +257,7 @@ Returns a 200 response on success
 | &nbsp; | &nbsp; | &nbsp; |
 |---|---|---|
 | `enabled` | boolean | `true` if the module will be applied to traffic, `false` to disable. default `true` if unspecified |
-| `ip_policies` | [Ref](#ref-fields) |  |
+| `ip_policies` | [Ref](#ref-fields) | list of all IP policies that will be used to check if a source IP is allowed access to the endpoint |
 
 ## Delete TCP Edge
 

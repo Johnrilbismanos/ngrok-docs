@@ -1,12 +1,12 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
   "event_destinations": [
     {
-      "id": "ed_2NTVHNOg1wBOxAT7sy97ch3QPp4",
+      "id": "ed_2TDPwj5bAcb1y26rDdJERpGLQot",
       "metadata": "{\"environment\":\"dev\"}",
-      "created_at": "2023-03-24T19:59:30Z",
+      "created_at": "2023-07-28T20:08:38Z",
       "description": "kinesis dev stream",
       "format": "json",
       "target": {
@@ -23,7 +23,7 @@
         "cloudwatch_logs": null,
         "datadog": null
       },
-      "uri": "https://api.ngrok.com/event_destinations/ed_2NTVHNOg1wBOxAT7sy97ch3QPp4"
+      "uri": "https://api.ngrok.com/event_destinations/ed_2TDPwj5bAcb1y26rDdJERpGLQot"
     }
   ],
   "uri": "https://api.ngrok.com/event_destinations",

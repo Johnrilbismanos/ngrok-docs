@@ -1,10 +1,10 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Response
 ```json
 {
-  "id": "abrp_2NTVHGf7ipImmo7bVt4hs2mriwd",
-  "uri": "https://api.ngrok.com/abuse_reports/abrp_2NTVHGf7ipImmo7bVt4hs2mriwd",
-  "created_at": "2023-03-24T19:59:30Z",
+  "id": "abrp_2TDPwajjDRvgt8JSGGpA1aRosP7",
+  "uri": "https://api.ngrok.com/abuse_reports/abrp_2TDPwajjDRvgt8JSGGpA1aRosP7",
+  "created_at": "2023-07-28T20:08:37Z",
   "urls": [
     "http://legit-facebook-login.ngrok.io/login"
   ],

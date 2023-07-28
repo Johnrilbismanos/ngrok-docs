@@ -1,4 +1,4 @@
-
+<!-- Code generated for API Clients. DO NOT EDIT. -->
 #### Example Request
 ```bash
 curl \
@@ -6,5 +6,5 @@ curl \
 -H "Authorization: Bearer {API_KEY}" \
 -H "Content-Type: application/json" \
 -H "Ngrok-Version: 2" \
--d '{"enabled":true,"ip_policy_ids":["ipp_2NTVHfsAe0RwGMd2f1V0Kg6nJcS","ipp_2NTVHiiPOhvA6FyU3EcG7mauomN"]}' \
-https://api.ngrok.com/edges/https/edghts_2NTVHdHnxWG4DKM1etjSzuv5lTL/routes/edghtsrt_2NTVHiffef0QKZ42EhgQi31MZbW/ip_restriction
+-d '{"enabled":true,"ip_policy_ids":["ipp_2TDPx2OA4pDbCugvD9FY9EHBMUJ","ipp_2TDPx0cdVUloRE0pGv6DEFKx8WZ"]}' \
+https://api.ngrok.com/edges/https/edghts_2TDPwxZ4o9LQJqM75dBv44BimxP/routes/edghtsrt_2TDPx2lr4TMDUMrZeTpyCduzAGK/ip_restriction
